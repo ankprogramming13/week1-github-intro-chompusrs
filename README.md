@@ -1,5 +1,7 @@
 # แบบรายงานการทดลองครั้งที่ 1
 
+[![Join the chat at https://gitter.im/ankprogramming13/week1-github-intro-chompusrs](https://badges.gitter.im/ankprogramming13/week1-github-intro-chompusrs.svg)](https://gitter.im/ankprogramming13/week1-github-intro-chompusrs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## ขั้นตอนการทดลอง
 
 ###เรียนรู้การใช้สัญลักษณ์ต่างๆ ใน github markdown
